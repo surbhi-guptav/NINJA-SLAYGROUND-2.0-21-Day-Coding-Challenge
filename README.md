@@ -1,5 +1,5 @@
 # Ninja Slayground - 21 Days Coding Challenge Solutions  
-
+https://www.naukri.com/code360/challenges/ninja-slayground-2-0-21-day-coding-challenge
 This repository contains my solutions for the **Ninja Slayground - 21 Days Coding Challenge**, a competitive programming event aimed at solving coding problems daily, climbing the leaderboard, and honing problem-solving skills.  
 
 ## 📚 Contents  
